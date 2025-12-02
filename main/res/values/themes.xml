@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.FinancialTracker" parent="android:Theme.DeviceDefault.Light.NoActionBar" />
-
-    <style name="Theme.App.Starting" parent="Theme.FinancialTracker" />
-
-    <style name="Theme.SplashScreen" parent="Theme.FinancialTracker" />
-
-</resources>
